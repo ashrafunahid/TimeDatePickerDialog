@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimeDatePickerDialog</string>
+    <string name="show_time">Show time</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="show_date">Show Date</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="date_time">Date Time</string>
+    <string name="date_time_picker">Date Time</string>
+</resources>
